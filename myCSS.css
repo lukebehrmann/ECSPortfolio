@@ -19,6 +19,12 @@ h1 {
 h3 {
   font: Marker Felt, fantasy;
 }
+body {
+     font: Marker Felt, fantasy;
+     background-color: #FFFFFF;
+     margin: 0;
+     padding: 0;
+     color: #000000;
 .header {
 background: #3B6EB8;
 text-align: center;
