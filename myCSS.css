@@ -11,7 +11,7 @@ width: 960px;
 margin: 0 auto;
 }
 .header {
-background: #AAAAAA;
+background: #3B6EB8;
 text-align: center;
 margin: 0px;
 padding: 5;
@@ -29,7 +29,7 @@ height: 60px;
 text-align: center;
 }
 .content {
-background: #EEEEEE;
+background: #D4E9FF;
 margin: 0px;
 float: left;
 width: 100%;
@@ -37,7 +37,7 @@ height: 490px;
 text-align: center;
 }
 .footer {
-background: #777777;
+background: #030711;
 margin: 0px;
 float: left;
 width: 100%;
