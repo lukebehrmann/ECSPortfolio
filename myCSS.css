@@ -11,19 +11,17 @@ width: 960px;
 margin: 0 auto;
 }
 title {
-  font: Marker Felt, fantasy;
+  font-family: Marker Felt, fantasy;
 }
 h1 {
-  font: Marker Felt, fantasy;
+  font-family: Marker Felt, fantasy;
 }
 h3 {
-  font: Marker Felt, fantasy;
+  font-family: Marker Felt, fantasy;
 }
 body {
      font: Marker Felt, fantasy;
      background-color: #FFFFFF;
-     margin: 0;
-     padding: 0;
      color: #000000;
 .header {
 background: #3B6EB8;
@@ -53,6 +51,7 @@ text-align: center;
 }
 h4 {
   color: #FFFFFF;
+  font-family: Marker Felt, fantasy;
 }
 .footer {
 background: #030711;
