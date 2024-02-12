@@ -3,6 +3,9 @@
 a:link {
      color: #3B6EB8;
 }
+a:visited {
+     color: #8E3DFF;
+}
 title {
   font-family: Marker Felt, fantasy;
 }
